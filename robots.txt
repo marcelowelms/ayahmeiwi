@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aviuyuuyot.pimbliek.nl/sitemap.xml
